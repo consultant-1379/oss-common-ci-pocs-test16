@@ -1,0 +1,2 @@
+stage-marker-publish:
+  - name: custompublish.Jenkinsfile
